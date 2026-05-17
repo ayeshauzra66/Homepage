@@ -16,7 +16,7 @@ This site highlights the beauty, culture, and essence of **Guntur City**, known 
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+
 
 ---
 
