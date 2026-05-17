@@ -1,0 +1,94 @@
+body{
+margin:0 auto;
+text-align:center;
+font-family:"Lobster Two",sans-serif;
+font-weight:700;
+font-style:normal;
+font-size:25px;
+background:linear-gradient(#FFFDD0,#8FBC8F);
+}
+.main{
+background-image:url("https://tse4.mm.bing.net/th/id/OIP.CiVVNQ_9ShXtK0mCsplOywHaDA?pid=Api&h=220&P=0");
+background-size:cover;
+height:300px;
+background-position:center;
+padding:10px 0 8px 0;
+}
+#guntur{
+padding:5px 5px;
+font-family:"Lobster Two",sans-serif;
+background-color:#5585b5;
+margin:20px auto ;
+width:150px;
+height:50px;
+border-radius:5px ;
+font-size:30px;
+color:white;
+border:1px solid white;
+}
+#des{
+padding:10px;
+border-radius:5px;
+border:1px solid white;
+background-color:#38598b;
+display:flex;
+font-size:25px;
+color:white;
+font-family:"Lobster Two",sans-serif;
+justify-content:center;
+text-align:center;
+margin:30px auto;
+
+}
+
+h3{
+color:#38598b;
+}
+.mid{
+border-radius:50%;
+width:100%;
+display:flex;
+color:#5585b5;
+gap:30px;
+justify-content:space-around;
+
+}
+#photo1{
+border-radius:50%;
+width:150px;
+height:150px;
+}
+#photo2{
+width:150px;
+border-radius:50%;
+height:150px;
+}
+#photo3{
+border-radius:50%;
+width:150px;
+height:150px;
+}
+.guide{
+display:flex;
+width:400px;
+height:220px;
+border:1px solid white;
+background:#ddebf8;
+text:center;
+margin:auto;
+text-size:10px;
+}
+#guidePh{
+display:block;
+width:200px;
+margin:10px;
+background-color:#38598b;
+}
+p{
+font-size:15px;
+font-weight:bold;
+}
+.center{
+text-align:center;
+font-size:20px;
+}
